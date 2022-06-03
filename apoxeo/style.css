@@ -1,0 +1,27 @@
+body{
+    background: #e8fcfe;
+}
+p{
+    padding-right: 20%;
+}
+
+*{
+    box-sizing: border-box;
+}
+.image1{
+    width: 42%;
+    float: left;
+    margin-left: -37px;
+    margin-right: -53px;
+    padding: 48px; 
+}
+.image1{
+    height: 50px;
+}
+.image2{
+    width: 521px;
+    float: right;
+    margin-left: 38px;
+    margin-right: -193px;
+    margin: -40px;
+}
